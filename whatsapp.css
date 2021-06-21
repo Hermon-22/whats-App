@@ -1,0 +1,42 @@
+.card-panel{
+    padding-top: 5px;  
+    background-color: #00BFA5;  
+}
+.card-panel img{
+    position: absolute;
+    left: 60px;
+}
+.card-panel h5{
+    margin-bottom: 140px;
+    color: ivory;
+    margin-left: 8%;
+}
+.box{
+    background-color: white;
+    position: absolute;
+    bottom: 100px;
+    left: 9%;
+    width: 70%;
+    height: 70%;
+    margin-left: 5%;
+    display: flex;
+    border-radius: 3px;
+    box-shadow: 0 17px 50px 0 rgb(0 0 0 / 19%), 0 12px 15px 0 rgb(0 0 0 / 24%);
+}
+.box1{
+    width: 55%;
+    margin:3%;
+}
+.box2{
+    width:30%;
+    height: 80%;
+    margin-top: 3.1%;
+}
+.box2 img{
+    margin-left: 10%;
+    margin-top: 3.1%;
+}
+.box2 div{
+    margin-left: 21%;
+}
+
